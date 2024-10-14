@@ -1,0 +1,31 @@
+#container1{
+	background-color:#474973;
+	text-align: center;
+}
+
+.container2{ 
+	background-color:#474973; 
+	width:250px; 
+	padding:20px; 
+	margin:auto;
+	box-shadow:2px 2px 15px rgba(24, 29, 64, 0.0);
+}
+
+body{background-image: url(https://assets.pinterest.com/ext/embed.html?id=12666442696352981);
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-attachment: fixed;
+
+}
+
+#Submit{
+	border-radius: 10px;
+	background-color: #474973;
+	color: white;
+	font-size:22px;
+}
+
+label{ font-size:25px;
+		font-family:Consolas; 
+		color:#A69CAC;
+}
